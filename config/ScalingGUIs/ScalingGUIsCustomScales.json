@@ -1,10 +1,20 @@
 {
-  "guiScale": 4,
-  "hudScale": 4,
-  "tooltipScale": 4,
+  "guiScale": 3,
+  "hudScale": 3,
+  "tooltipScale": 3,
   "customIndividualGuiScales": {},
   "customGroupGuiScales": {},
-  "loggedGuiClassNames": [],
+  "loggedGuiClassNames": [
+    "net.minecraft.client.gui.GuiWorldSelection",
+    "com.ezrol.terry.minecraft.defaultworldgenerator.gui.DefaultWorldSelectionList",
+    "com.ezrol.terry.minecraft.defaultworldgenerator.gui.GuiCreateCustomWorld",
+    "lumien.custommainmenu.gui.GuiCustom",
+    "net.minecraft.client.gui.GuiScreenWorking",
+    "net.minecraft.client.gui.GuiIngameMenu",
+    "net.minecraft.client.gui.GuiOptions",
+    "net.minecraft.client.gui.GuiVideoSettings",
+    "spazley.scalingguis.gui.guiconfig.GuiConfigSG"
+  ],
   "blacklistGuiClassNames": [],
   "dynamicGuiScales": []
 }
