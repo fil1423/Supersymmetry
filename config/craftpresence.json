@@ -379,7 +379,8 @@
       }
     },
     "dynamicIcons": {
-      "default": "https://via.placeholder.com/256.png"
+      "default": "https://via.placeholder.com/256.png",
+      "0_0Bella": "https://mc-heads.net/avatar/6ec6a26e1e9b4488b4818d8de49a8b7a"
     },
     "dynamicVariables": {
       "default": "Example Text",
