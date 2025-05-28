@@ -68,6 +68,7 @@ class ChangeFlags {
         Germanium.setProperty(PropertyKey.INGOT, new IngotProperty());
         Tellurium.setProperty(PropertyKey.INGOT, new IngotProperty());
         Cadmium.setProperty(PropertyKey.INGOT, new IngotProperty());
+        Magnesium.setProperty(PropertyKey.INGOT, new IngotProperty());
         Asbestos.setProperty(PropertyKey.INGOT, new IngotProperty());
 
         BisphenolA.setProperty(PropertyKey.DUST, new DustProperty());
@@ -143,6 +144,7 @@ class ChangeFlags {
         // Flags
 
         Asbestos.addFlags("generate_foil");
+        Magnesium.addFlags("generate_rod", "generate_plate");
         Tellurium.addFlags("generate_plate");
         Steel.addFlags("generate_spring", "generate_spring_small");
         Titanium.addFlags("generate_foil", "generate_spring", "generate_spring_small");
