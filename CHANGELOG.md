@@ -1,3 +1,45 @@
+# UPDATE 0.1.15.2
+## Mod Changes
+### Mod Updates
+- Supercritical 0.1.3 -> 0.2.0
+- SusyCore v0.1.69 → v0.1.71
+### Mod Additions
+- FluxLoading → 1.3.5
+### Mod Removals
+- BiomeTweakerCore
+- Yet Another Recipe Conflict Fixer (YARCF) 
+## Changes
+### New Features
+- Tritium, polonium, and nuclear weapons are now available! (#1532 by @planetme)
+- Code Breachers are now required for Federation-locked structures. (#1571 by @Rick8484)
+- [Susy-Core] Thermoplastics are now available! (#483 by @WideMann)
+### Changed Features
+- IMPORTANT: Nuclear reactor values have been modified. **Please turn off your reactors before updating!!!!!!**
+- Many recipes now use the Mixer Settler. Check your lines! (#1559 by @Rick8484)
+- The main menu images have been updated! (#1570 by @MCTian-mi)
+- Graphite and Mica are now more accessible. (#1573 by @planetme)
+### Fixes
+- [Susy-Core] Now you can turn off command blocks on the server, there's a workaround to made our structures still generate. (#505 by @oliwier509)
+- Thanks to @Oganesson897, @MCTian-mi, @Crindigo, @trainvoi, @Rick8484, @loxoDev, and @oliwier509 for continuing to stabillize the pack!
+# UPDATE 0.1.15.1
+## Mod Changes
+### Mod Updates
+- Inventory Bogo Sorter 1.4.10 -> 1.4.11
+- ReFined Tools 7.76 -> 7.77
+- SusyCore v0.1.65 -> v0.1.68
+- Supercritical 0.1.2 -> 0.1.3
+## Changes
+### New Features
+- You can now produce plutonium! This probably isn't bad or anything. (#1552 by @planetme)
+- [Susy-Core] You can now use the mixer-settler multiblock to perform liquid-liquid extractions! (#455 by @bruberu)
+### Changed Features
+- In-game tips have been refreshed! (#1547 by @Rick8484)
+- [Susy-Core] Basic gas masks now may also be used to breathe underwater! (#482 by @unitazer)
+### Fixes
+- The Inventory Bogo Sorter config is accessible now!
+- HV motors are once again obtainable! (#1534 by @planetme)
+- The chromite line is now more accurate. (#1537 by @Crindigo)
+- You will have to try a *little* harder to loot a structure now. (#1539, #1548 by @oliwier509)
 # UPDATE 0.1.15.0.1
 ## Mod Changes
 ### Mod Updates
